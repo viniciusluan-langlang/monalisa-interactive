@@ -1,0 +1,23 @@
+{
+  "name": "monalisa-interactive",
+  "version": "1.0.0",
+  "description": "Projeto Alura - Monalisa Interativa com Canvas HTML5",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "monalisa",
+    "canvas",
+    "interativo",
+    "javascript",
+    "alura",
+    "leonardo-da-vinci"
+  ],
+  "author": "viniciusluan-langlang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viniciusluan-langlang/monalisa-interactive"
+  }
+}
